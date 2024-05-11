@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@ant-design/cssinjs": "^1.10.1",
+    "@inlang/paraglide-next": "^0.2.0",
     "antd": "^5.6.1",
     "clsx": "^1.2.1",
     "dayjs": "^1.11.8",

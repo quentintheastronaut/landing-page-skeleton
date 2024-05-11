@@ -1,0 +1,11 @@
+{
+  "sourceLanguageTag": "-US",
+  "languageTags": ["en-US", "zh-CN"],
+  "modules": [
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-next-intl@1/dist/index.js"
+  ],
+  "plugin.inlang.nextIntl": {
+    "pathPattern": "./locale/messages/{languageTag}.json",
+    "variableReferencePattern": ["{", "}"]
+  }
+}
