@@ -1,14 +1,17 @@
 {
+  "$schema": "https://inlang.com/schema/inlang-message-format",
   "site": {
     "title": "Next.js",
-		"desc": "将 Ant-Design 5 与 Next.js 13 和 Tailwind CSS 结合使用"
+    "desc": "将 Ant-Design 5 与 Next.js 13 和 Tailwind CSS 结合使用"
   },
-	"nav": {
-		"home": "首页"
-	},
-	"theme": {
-		"light": "亮色",
-		"dark": "暗色",
-		"system": "系统"
-	}
+  "nav": {
+    "home": "首页"
+  },
+  "theme": {
+    "light": "亮色",
+    "dark": "暗色",
+    "system": "系统"
+  },
+  "hello_world": "Hello World!",
+  "greetings": "Greetings {name}."
 }

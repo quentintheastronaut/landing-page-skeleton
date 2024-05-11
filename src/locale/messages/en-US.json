@@ -1,4 +1,5 @@
 {
+  "$schema": "https://inlang.com/schema/inlang-message-format",
   "site": {
     "title": "Next.js",
     "desc": "Using Ant-Design 5 with Next.js 13 and Tailwind CSS"
