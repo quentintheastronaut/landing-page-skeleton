@@ -1,5 +1,5 @@
 {
-  "sourceLanguageTag": "-US",
+  "sourceLanguageTag": "en-US",
   "languageTags": ["en-US", "zh-CN"],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-next-intl@1/dist/index.js"
